@@ -1,0 +1,24 @@
+{
+  "name": "tensorflowjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ch01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmdgusya/TensorFlowJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmdgusya/TensorFlowJS/issues"
+  },
+  "homepage": "https://github.com/tmdgusya/TensorFlowJS#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.8.0",
+    "@tensorflow/tfjs-backend-webgl": "^3.8.0"
+  },
+  "type": "module"
+}
